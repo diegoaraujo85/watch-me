@@ -51,7 +51,7 @@ Created from Rocketseat [template](https://github.com/rocketseat-education/ignit
       <pre><span class="pl-c"><span class="pl-c">#</span> Clone the repository</span>
 $ git clone https://github.com/diegoaraujo85/watch-me.git <br/>
 <span class="pl-c"><span class="pl-c">#</span> Go into the directory</span>
-$ <span class="pl-c1">cd</span> movies-list <br/>
+$ <span class="pl-c1">cd</span> watch-me <br/>
 <span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
 $ yarn <br/>
 <span class="pl-c"><span class="pl-c">#</span> Run the fake api</span>
