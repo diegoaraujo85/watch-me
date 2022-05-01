@@ -58,7 +58,7 @@ $ yarn <br/>
 $ yarn server <br/>
 <span class="pl-c"><span class="pl-c">#</span> Run the development server</span>
 $ yarn dev <br/>
-<span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:8080</span>
+<span class="pl-c"><span class="pl-c">#</span> Navigate to <a href="http://localhost:8080" rel="nofollow">http://localhost:8080</a></span>
 <span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
 </div>
 
@@ -73,7 +73,7 @@ The application is already fully functional but much of its code is directly in 
 
 ## 📄 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
 ---
 
